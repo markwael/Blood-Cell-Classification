@@ -36,5 +36,5 @@ The dataset used for training is available on Kaggle:
 
 ### 🔹 **1. Clone the Repository**  
 ```sh
-git clone https://github.com/YOUR_USERNAME/Blood-Cell-Classification.git
+git clone https://github.com/markwael/Blood-Cell-Classification.git
 cd Blood-Cell-Classification
